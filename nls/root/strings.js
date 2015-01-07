@@ -23,7 +23,7 @@ define({
     IMPORT_FROM_GIST_DELETE_LOCAL:      "Do you wish to delete all local snippets?",
     IMPORT_SUCCESSFUL:                  "Import completed successfully!",
     LOAD_SNIPPET_FROM_GIST:             "Load a snippet from Gist url",
-    MSG_AUTH_SUCCESS:                   "Authorization successfull for ",
+    MSG_AUTH_SUCCESS:                   "Authorization successful for ",
     MSG_CONNECTED_AS:                   "Connected as",
     NO:                                 "No",
     NO_SNIPPET_SELECTED:                "No snippet selected",
